@@ -86,12 +86,12 @@ All dimensions were measured from the SVG geometry (72 units per inch).
 <div class="cut-grid" markdown>
 <figure markdown>
   ![Port wall v2](../assets/previews/FrontBackPortWall_v2.svg)
-  <figcaption>`FrontBackPortWall_v2.svg`: three rounded (obround) openings,
+  <figcaption><code>FrontBackPortWall_v2.svg</code>: three rounded (obround) openings,
   1.65 × 1.40 in (42 × 36 mm), on the same 3.25 in spacing. No mounting holes.</figcaption>
 </figure>
 <figure markdown>
   ![Port wall v1](../assets/previews/FrontBackPortWall.svg)
-  <figcaption>`FrontBackPortWall.svg`: three small 0.79 × 0.44 in (20 × 11 mm)
+  <figcaption><code>FrontBackPortWall.svg</code>: three small 0.79 × 0.44 in (20 × 11 mm)
   rectangular openings, 3.0 in apart, centered about 2.5 in above the bottom edge.</figcaption>
 </figure>
 </div>
