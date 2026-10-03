@@ -23,7 +23,7 @@
 
 | Item | Notes |
 |---|---|
-| Reservoir, ≥ 4 L | Filled weekly with **0.2 % saccharin** ([Weekly maintenance](../operate/weekly-maintenance.md)) |
+| Reservoir, ≥ 4 L | Filled weekly with **10 % sucrose** ([Weekly maintenance](../operate/weekly-maintenance.md)) |
 | Tubing + Y-connectors | Reservoir → valves. Keep a spare set so you can swap in clean tubing each week. *TBD: tubing ID* |
 | Tubing clamps | For changing lines without spills |
 | Syringe | For priming the lines |

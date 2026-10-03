@@ -12,7 +12,7 @@ flowchart TB
         bx2["Box RATACAD_1_2"] --- bp2[Bpod State Machine]
         bxn["…"] --- bpn[Bpod …]
     end
-    W[("Water reservoir<br/>0.2 % saccharin")] -. tubing .-> bx1 & bx2 & bxn
+    W[("Water reservoir<br/>10 % sucrose")] -. tubing .-> bx1 & bx2 & bxn
     bp1 & bp2 & bpn -- USB --> PC
 
     subgraph PC["Control computer (Ubuntu or Windows)"]
