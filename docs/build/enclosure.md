@@ -22,13 +22,20 @@ This page lists every cut file, what it is, and its measured dimensions.
 | 1 | Lid | [`TopLid.svg`](../files/laser-cut/svg/TopLid.svg) | 13.50 × 12.00 in (343 × 305 mm) |
 | opt. | Port-wall bottom strip | [`PortWallInsert.svg`](../files/laser-cut/svg/PortWallInsert.svg) | 12.14 × 2.00 in (308 × 51 mm) |
 
-!!! warning "Still to confirm: material, thickness and fasteners"
-    The drawings don't state the sheet material or thickness. The base DWG is named
-    *ABSBottom*, which suggests an ABS base, and the side-wall notch is exactly
-    0.25 in deep, which suggests 1/4 in (6 mm) sheet for the mating part.
-    **Someone who has built a box should confirm** the material (acrylic/ABS), the
-    thickness and how the walls are joined (rods, standoffs, brackets or glue), then
-    update this page. See [Contributing](../reference/contributing.md).
+## Material
+
+All parts are cut from **1/4 in (6 mm) acrylic sheet**. This matches the 0.25 in
+deep notch in the side walls. One box takes about **6 ft² (0.55 m²)** of sheet
+before nesting losses. Lay out your parts with that in mind.
+
+!!! note "Base drawing name"
+    The original base drawing is named `ABSBottomMG.dwg`. Some earlier builds may
+    have used ABS for the base. The current standard is acrylic for every part.
+
+!!! warning "Still to confirm: fasteners"
+    How the walls are joined (rods, standoffs, brackets or solvent cement) isn't
+    written down yet. If you've built a box, please add it. See
+    [Contributing](../reference/contributing.md).
 
 ## Before you cut: check the scale
 

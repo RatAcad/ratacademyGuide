@@ -41,7 +41,7 @@ in `build/enclosure.md` and state its **units (72 or 96 dpi)**.
 ## Most wanted
 
 - [ ] Photos of an assembled box and a full academy rack
-- [ ] Material/thickness and fasteners for the enclosure
+- [ ] Fasteners and joining method for the enclosure
 - [ ] A complete bill of materials with part numbers and vendors
 - [ ] Wiring photos (Bpod → port interface boards → nose-pokes/valves)
 - [ ] Water reservoir and manifold setup

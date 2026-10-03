@@ -10,7 +10,7 @@ the detailed page.
 - [ ] Order Bpods, nose-pokes and valves ([Hardware](../build/hardware.md))
 - [ ] Order the control computer(s) and ask IT for setup ([Ubuntu](../setup/computer-ubuntu.md))
 - [ ] Arrange lab network storage and a MySQL/DataJoint database ([Data pipeline](../data/pipeline.md))
-- [ ] Get sheet stock and laser-cutter time
+- [ ] Get 1/4 in (6 mm) acrylic sheet (~6 ft² per box) and laser-cutter time
 
 ## Phase 2: Build boxes
 

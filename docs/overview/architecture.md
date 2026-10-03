@@ -8,7 +8,7 @@ Everything is controlled from a few computers and logged to a central database.
 flowchart TB
     subgraph rack["Rack (e.g. RATACAD_1, ~8–9 boxes)"]
         direction LR
-        bx1["Box RATACAD_1_1<br/>laser-cut enclosure<br/>3 nose-pokes + valves"] --- bp1[Bpod State Machine]
+        bx1["Box RATACAD_1_1<br/>1/4 in acrylic enclosure<br/>3 nose-pokes + valves"] --- bp1[Bpod State Machine]
         bx2["Box RATACAD_1_2"] --- bp2[Bpod State Machine]
         bxn["…"] --- bpn[Bpod …]
     end

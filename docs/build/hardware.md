@@ -9,7 +9,7 @@
 
 | Qty | Item | Notes |
 |---:|---|---|
-| 1 | Laser-cut enclosure | [Cut list](enclosure.md#cut-list-for-one-box) |
+| 1 | Laser-cut enclosure, **1/4 in (6 mm) acrylic** | ~6 ft² of sheet per box. [Cut list](enclosure.md#cut-list-for-one-box) |
 | 1 | **Bpod State Machine** (r2 recommended) | [Sanworks](https://sanworks.io/). The code supports r0.5, r0.7–0.9 and r2.0. **New units currently need a firmware downgrade**; [see why](../software/bpod.md#known-limitation-new-bpods-need-old-firmware) |
 | 3 | **Nose-pokes** with IR beam, cue LED and water spout | Sanworks port + port interface board, or your own. They mount in the 2.00 in openings |
 | 3 | **Solenoid valves** (one per port) | Driven by the Bpod port interface boards. *TBD: model* |
