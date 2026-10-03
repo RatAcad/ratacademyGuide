@@ -94,5 +94,5 @@ flowchart LR
 
 ---
 
-Developed in the [Scott Lab](https://www.bu.edu/) at Boston University. Found a
+Developed in the [Scott Lab](https://www.scottcognitionlab.com/) at Boston University. Found a
 mistake, or built a box? [Help improve this guide](reference/contributing.md).
