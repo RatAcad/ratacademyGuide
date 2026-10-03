@@ -34,7 +34,7 @@ theme:
     - toc.follow
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/ratacad.css
 
 markdown_extensions:
   - admonition
