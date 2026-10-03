@@ -1,0 +1,11 @@
+site/
+.venv/
+__pycache__/
+.DS_Store
+# Original working files. Published copies live in docs/files/.
+# The .docx notes contain lab-internal credentials/hostnames: do not commit them.
+*.docx
+~$*
+/walls/
+/ubuntu/
+/windows/

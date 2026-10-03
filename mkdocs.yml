@@ -1,0 +1,85 @@
+site_name: Rat Academy Build Guide
+site_description: How to build, run, and maintain a Rat Academy — a high-throughput, automated rat behavior training facility built on Bpod.
+site_url: https://ratacad.github.io/ratacademyGuide/
+repo_name: RatAcad/ratacademyGuide
+repo_url: https://github.com/RatAcad/ratacademyGuide
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  icon:
+    logo: material/rodent
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle: { icon: material/weather-night, name: Switch to dark mode }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle: { icon: material/weather-sunny, name: Switch to light mode }
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - content.tabs.link
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - tables
+  - toc: { permalink: true }
+  - pymdownx.details
+  - pymdownx.tasklist: { custom_checkbox: true }
+  - pymdownx.highlight: { anchor_linenums: true }
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed: { alternate_style: true }
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Home: index.md
+  - Overview:
+      - System architecture: overview/architecture.md
+      - Build roadmap: overview/roadmap.md
+  - Build the rig:
+      - Enclosure (laser-cut): build/enclosure.md
+      - Hardware & parts list: build/hardware.md
+  - Set up software:
+      - Control computer (Ubuntu): setup/computer-ubuntu.md
+      - Control computer (Windows): setup/computer-windows.md
+      - Bpod (RatAcad fork): software/bpod.md
+      - BpodAcademy: software/bpodacademy.md
+      - Protocols: software/protocols.md
+  - Run the academy:
+      - Daily operation: operate/daily.md
+      - Weekly maintenance: operate/weekly-maintenance.md
+      - Valve calibration: operate/calibration.md
+  - Data:
+      - Data pipeline: data/pipeline.md
+      - DataJoint access: data/datajoint.md
+  - Reference:
+      - Automation scripts: reference/scripts.md
+      - Troubleshooting: reference/troubleshooting.md
+      - Contributing to this guide: reference/contributing.md
