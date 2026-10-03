@@ -1,6 +1,6 @@
-# Rat Academy Build Guide
+# Ratacademy Build Guide
 
-Source for the Rat Academy (RatAcad) build-and-operate guide, published at
+Source for the Ratacademy (RatAcad) build-and-operate guide, published at
 **https://ratacad.github.io/ratacademyGuide/**.
 
 It covers laser-cut enclosure files, hardware, control-computer setup, Bpod (NoGUI fork),

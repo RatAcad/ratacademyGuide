@@ -1,6 +1,6 @@
 # DataJoint access
 
-Rat Academy data is stored in a **MySQL database on AWS** (Amazon RDS), organized
+Ratacademy data is stored in a **MySQL database on AWS** (Amazon RDS), organized
 with [DataJoint](https://datajoint.com/). To browse or analyze it you need:
 
 1. a MySQL user account on the database server

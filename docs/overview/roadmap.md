@@ -1,6 +1,6 @@
 # Build roadmap
 
-These are the steps for building a Rat Academy from nothing. Each step links to
+These are the steps for building a Ratacademy from nothing. Each step links to
 the detailed page.
 
 ## Phase 1: Plan and order

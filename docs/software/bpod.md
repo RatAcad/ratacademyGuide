@@ -5,7 +5,7 @@ machine that runs each box: it reads nose-pokes, drives cue lights and opens
 water valves. Each box has its own **Bpod State Machine**, connected to the control
 computer by USB.
 
-Rat Academy runs a modified Bpod that works **headless**, i.e. without the
+Ratacademy runs a modified Bpod that works **headless**, i.e. without the
 Bpod console window. This lets one computer run many Bpods unattended, all
 controlled by [BpodAcademy](bpodacademy.md).
 

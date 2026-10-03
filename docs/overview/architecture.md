@@ -1,6 +1,6 @@
 # System architecture
 
-A Rat Academy is a set of **racks of behavior boxes**. Animals live in their
+A Ratacademy is a set of **racks of behavior boxes**. Animals live in their
 boxes, earn water by doing a task, and move through training stages automatically.
 Everything is controlled from a few computers and logged to a central database.
 

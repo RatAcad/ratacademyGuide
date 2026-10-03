@@ -1,11 +1,11 @@
-# Rat Academy Build Guide
+# Ratacademy Build Guide
 
-**Rat Academy (RatAcad)** is a high-throughput, automated facility for training rats
+**Ratacademy (RatAcad)** is a high-throughput, automated facility for training rats
 on behavioral tasks. Animals live in laser-cut behavior boxes, earn water by
 nose-poking, and move through training stages automatically. Dozens of boxes run
 from a few computers, and every trial goes into a shared DataJoint database.
 
-This guide collects everything needed to **build, run and maintain** a Rat Academy:
+This guide collects everything needed to **build, run and maintain** a Ratacademy:
 cut files, parts, computer setup, software, daily and weekly procedures, and the data
 pipeline.
 

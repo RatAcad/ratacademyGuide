@@ -1,6 +1,6 @@
 # Enclosure (laser-cut parts)
 
-Each Rat Academy box is a laser-cut enclosure. It has a **port wall** holding the
+Each Ratacademy box is a laser-cut enclosure. It has a **port wall** holding the
 nose-pokes, a blank wall opposite it, two side walls, a base and a ventilated lid.
 This page lists every cut file, what it is, and its measured dimensions.
 
