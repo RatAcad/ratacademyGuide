@@ -1,0 +1,5 @@
+.cut-preview { width: 360px; max-width: 100%; height: auto; box-sizing: border-box; background: #fff; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 6px; padding: 8px; }
+.cut-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; }
+.cut-grid figure { margin: 0; }
+.cut-grid img { width: 100%; background: #fff; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 6px; padding: 6px; }
+.cut-grid figcaption { font-size: .75rem; }
